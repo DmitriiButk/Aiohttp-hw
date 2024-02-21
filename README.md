@@ -1,4 +1,4 @@
-**Use commands in terminal:**
+*Use commands in terminal:*
 
 ```shell
 cd Aiohttp-hw
@@ -12,8 +12,8 @@ docker-compose up -d
 ```shell
 python server.py
 ```
-**And use client.py to test http methods.**
-
+*And use client.py to test http methods.*
+#
 
 Домашнее задание к лекции «Aiohttp»
 
